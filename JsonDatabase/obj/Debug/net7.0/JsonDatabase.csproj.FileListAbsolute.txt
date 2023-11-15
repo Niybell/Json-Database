@@ -1,0 +1,12 @@
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\bin\Debug\net7.0\JsonDatabase.deps.json
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\bin\Debug\net7.0\JsonDatabase.dll
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\bin\Debug\net7.0\JsonDatabase.pdb
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\JsonDatabase.csproj.AssemblyReference.cache
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\JsonDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\JsonDatabase.AssemblyInfoInputs.cache
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\JsonDatabase.AssemblyInfo.cs
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\JsonDatabase.csproj.CoreCompileInputs.cache
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\JsonDatabase.dll
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\refint\JsonDatabase.dll
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\JsonDatabase.pdb
+C:\programming\Languages\2023\csharp\JsonDatabase\JsonDatabase\obj\Debug\net7.0\ref\JsonDatabase.dll

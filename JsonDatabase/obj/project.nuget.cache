@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vKne27BfUmXIfNEEs+wdd0poiE8DEacpICIgyZVxIz0+TMs2B/YUm6pe327vsyzkkR5CPjcdmI1vIHj/bhGPXg==",
+  "dgSpecHash": "vIpcC6i7Lxm0z3lM30/yPGkuEXjiDOLJZXVBaaCPhbXeKt3gAkkAk+oZSwyuL5s6sNKt61eYk9l8b89h60uIfQ==",
   "success": true,
   "projectFilePath": "C:\\programming\\Languages\\2023\\csharp\\JsonDatabase\\JsonDatabase\\JsonDatabase.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mvideo103\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
